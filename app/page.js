@@ -1,7 +1,7 @@
 export default function HomePage() {
   return (
     <div className="homePage">
-      <h1>Hello</h1>
+      <h1>Dinosaur Website</h1>
     </div>
   );
 }
